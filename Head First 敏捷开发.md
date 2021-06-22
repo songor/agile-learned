@@ -462,5 +462,200 @@ set-based-development
 
 任务板用来管理一个项目，而看板面板用于了解你的流程。
 
+累积流图（cumulative flow diagrams, CFD）
+
 看板团队创建反馈回路的最常用的方法之一就是度量交付时间，做出变更，然后查看这些变更是否会让他们的交付时间减少。
 
+### 准备 PMI-ACP 考试
+
+**Agile Principles and Mindset**
+
+advocate for agile principles / across the team / between the customer and the team
+
+common understanding of the values and principles of agile / common knowledge around the agile practices and terminology
+
+educating the organization and influencing processes, behaviors, and people / make the organization more effective and efficient
+
+maintaining highly visible information radiators / enhance transparency and trust
+
+allowing everyone to experiment and make mistakes / safe and trustful team environment
+
+experimenting with new techniques and process ideas / discover more efficient and effective ways of working
+
+share knowledge
+
+emergent leadership / make improvements and foster self-organization and empowerment
+
+servant leadership
+
+**Value-Driven Delivery**
+
+*Define Positive Value*
+
+identifying units that can be produced incrementally / maximize their value to stakeholders
+
+acceptance criteria for features / deliver value
+
+select and tailor the team’s process based on project and organizational characteristics / optimize value delivery
+
+*Avoid Potential Downsides*
+
+minimally marketable features / minimally viable products / early recognition and delivery of value
+
+limit increment size and increase review frequency with appropriate stakeholders / identify and respond to risks early
+
+reviewing increments often / confirm and enhance business value
+
+*Prioritization*
+
+prioritize the units of work
+
+frequent review and maintenance of the work results /  internal quality / reduce the overall cost of incremental development
+
+environmental, operational, and infrastructure factors
+
+*Incremental Development*
+
+operational reviews / periodic checkpoints with stakeholders / corrections to the work
+
+incorporating both value producing and risk reducing work into the backlog
+
+re-prioritize requirements periodically
+
+relevant non-functional requirements
+
+frequent reviews of work products / identify and incorporate improvements into the overall process
+
+**Stakeholder Engagement**
+
+*Understand Stakeholder Needs*
+
+identify and engage / periodic reviews / the team is knowledgeable about stakeholders’ interests, needs, and expectations
+
+identify and engage all stakeholders / promoting knowledge sharing early and throughout the project
+
+*Ensure Stakeholder Involvement*
+
+forming a working agreement among key stakeholders
+
+continually assessing changes in the project and organization / new stakeholders are appropriately engaged
+
+establish collaborative behaviors / fostering group decision making and conflict resolution
+
+*Manage Stakeholder Expectations*
+
+establish a shared vision of the various project increments
+
+shared understanding of success criteria, deliverables, and acceptable trade-offs
+
+provide forecasts at a level of detail
+
+**Team Performance**
+
+*Team Formation*
+
+devise ground rules and internal processes / foster team coherence
+
+interpersonal and technical skills needed to achieve all known project objectives
+
+*Team Empowerment*
+
+become generalizing specialists / create a high performing cross-functional team
+
+self-organizing the work / empowering others and encouraging emerging leadership
+
+team morale is high and team members are motivated
+
+*Team Collaboration and Commitment*
+
+close communication / co-location or the use of collaboration tools
+
+reduce distractions
+
+sharing project vision / ensure the team understands how their objectives fit into the overall goals of the project
+
+encourage the team to measure its velocity / gain a better understanding of their capacity
+
+**Adaptive Planning**
+
+*Levels of Planning*
+
+plan at multiple levels (strategic, release, iteration, daily) / balance predictability of outcomes
+
+make planning activities visible and transparent by encouraging participation of key stakeholders
+
+making increasingly specific levels of commitments
+
+*Adaptation*
+
+adapt the cadence and the planning process based on results of periodic retrospectives
+
+inspect and adapt the project plan / team learning, delivery experience, stakeholder feedback, and defects
+
+*Agile Sizing and Estimation*
+
+progressive elaboration techniques / determine likely project size
+
+adjust capacity / maintenance and operations demands
+
+create initial scope, schedule, and cost range estimates / high level understanding of the effort necessary to deliver the project
+
+refine scope, schedule, and cost range estimates / the latest understanding of the effort necessary to deliver the project
+
+continuously use data from changes
+
+**Problem Detection and Resolution**
+
+open and safe environment / encouraging conversation and experimentation / surface problems and impediments
+
+educating and engaging the team at various points in the project / identify threats and issues
+
+ensure issues are resolved / reset expectations in light of issues
+
+maintain a visible, monitored, and prioritized list of threats and issues
+
+transparency / maintaining threat list and incorporating activities into backlog of work
+
+**Continuous Improvement (Product, Process, People)**
+
+tailor and adapt the project process / team practices, organizational culture, and delivery goals
+
+conducting frequent retrospectives and improvement experiments
+
+feedback / incremental delivery and frequent demonstrations
+
+continued learning by providing opportunities for people to develop their skills / generalizing specialists
+
+performing a value stream analysis and removing waste / challenge existing process elements
+
+disseminating knowledge / practices across projects and organizational boundaries / avoid re-occurrence of identified problems
+
+**敏捷团队使用客户价值确定需求的优先级**
+
+*MoSCow 方法*
+
+需求或待办列表项会划分为 Must have / Should have / Could have / Won't have
+
+*相对优先级排序评级*
+
+为各个工作项或需求分别指定一个数值，表示客户价值，并使用这个价值对它们排序
+
+*Kano 分析*
+
+之前让客户满意的革新经过一段时间后会变成必备属性，如果产品未能提供这些特性，将导致客户不满意
+
+**价值计算帮助你确定选择哪些项目**
+
+投资回报（ROI）、净现值（NPV）、敏捷的挣值管理（EVM）、内部回报率（IRR）
+
+**情境领导理论**
+
+形成 / 震荡 / 规范 / 成熟 / 解散
+
+指导式 / 教练式 / 支持式 / 授权式
+
+**已调整风险的待办列表、预设失败和风险燃尽图**
+
+**协作游戏**
+
+规划扑克 / 亲和估计 / 思维导图 / 5 分投票法 / 点投法 / 100 分投票法
