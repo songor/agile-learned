@@ -659,3 +659,6 @@ disseminating knowledge / practices across projects and organizational boundarie
 **协作游戏**
 
 规划扑克 / 亲和估计 / 思维导图 / 5 分投票法 / 点投法 / 100 分投票法
+
+### 职业责任
+
